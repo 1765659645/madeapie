@@ -3,7 +3,7 @@ MadeAPie的建议与反馈
 
 一直想要实现代码创造价值
 
-遂开发了 [MadeAPie](http://pie.antcode.net)，数据是MakeAPie的，感谢好心人提供数据
+遂开发了 [MadeAPie](https://madeapie.com)，数据是MakeAPie的，感谢好心人提供数据
 
 目前已实现过滤，搜索。
 
@@ -17,7 +17,6 @@ MadeAPie的建议与反馈
 
 大家可以提issue，完善优化以及升级它。
 
-域名madeapie.com正在备案中，备案完成后，将使用该域名。
 
 # 后续计划
 代码编辑添加外部资源引用，格式化代码功能
@@ -38,3 +37,5 @@ MadeAPie的建议与反馈
 2022/2/24  修复大部分词云图不显示的案例，原因是由于echarts版本不匹配以及词云图在线js为http资源的问题
 
 2022/2/25  添加调试功能
+
+2022/3/29  更换新UI
