@@ -44,4 +44,4 @@ MadeAPie的建议与反馈
 
 2022/6/8   为无预览图的案例添加暂无预览图片，添加为爱发电（支持本站~ ~）
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1765659645&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1765659645&show_icons=true&theme=radical)
